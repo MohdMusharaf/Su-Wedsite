@@ -1,0 +1,105 @@
+.secondHeader-div{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    display: flex;
+    border-bottom: 1px solid rgb(117, 113, 113);
+}
+
+.logo-image{
+    width: 200px;
+    height: 70px;
+}
+.logo-div{
+    margin-left: 50px;
+}
+
+.white-search-div{
+    background-color: white;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 100px;
+    border-radius: 30px;
+    padding:2px 0px 0px 10px;
+    display: flex;
+}
+.select-catagories{
+    display: flex;
+}
+.select-border{
+    border: none;
+    margin:0px 10px 0px -5px;
+    padding-top: 7px;
+    font-size: 16px;
+    border-radius: 20px;
+    height: 45px;
+}
+.input-search-div{
+    
+    padding: 5px 5px 5px 15px;
+}
+
+.form-border{
+    border: white;
+    width: 350px;
+}
+
+.btn-search{
+    background-color: rgb(255, 153, 0);
+    margin-right:3px ;
+    padding: 10px 0px;
+    margin-left: 5px;
+    border-radius: 30px;
+    width: 120px;
+}
+
+.icons-users-head{
+    color: #74C0FC;
+    width: 20px;
+    height: 30px;   
+
+}
+
+.icons-div{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.icons-inner-head{
+    display: flex;
+    margin-left: 20px;
+}
+
+.btn-Login{
+    border: none;
+    background-color: #232f3f;
+    padding-left: 10px;
+    text-align: left;
+}
+.text-style{
+    color: rgb(134, 129, 129);
+    font-weight: 600;
+}
+.account-style{
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+.favorite-div{
+    margin-top: -5px;
+}
+
+.button-border{
+    border: 0;
+    margin-left: 10px;
+    border-bottom: 2px solid black;
+    padding: 10px 10px ;
+    background-color: rgb(92, 92, 255);
+    border-radius: 10px;
+}
+
+.button-logins{
+    margin-left: 100px;
+}
+
+.modal-body{
+    margin-left: 100px;
+}

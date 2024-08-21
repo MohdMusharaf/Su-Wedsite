@@ -1,0 +1,163 @@
+.top-deals{
+    border-bottom: 5px solid orangered;
+    font-size: 28px;
+    
+   
+}
+
+.top-deals-div{
+    border-bottom: 1px solid black;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.image-mobile-div{
+    padding: 20px 20px 20px 0px;
+    border: 1px solid rgb(150, 153, 154);
+    display: flex;
+    width: 700px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.image-change-mobile{
+    width: 300px;
+    height: 300px;
+}
+
+.btb-image-change{
+    padding: 20px 20px;
+}
+
+.btn-mobile{
+    border: 0;
+    background-color: white;
+}
+.heart-icons-mobile{
+    width: 40px;
+    height: 40px;
+    padding: 10px 10px;
+    border-radius: 30px 30px  ;
+    border: 1px solid rgb(123, 120, 120);
+    margin-bottom: 20px;
+
+}
+
+.icon-mobile-div{
+    display: flex;
+    flex-direction: column;
+    margin-left: -30px;
+}
+
+.image-icon-div{
+    display: flex;
+}
+
+.mobile-headname{
+    width: 300px;
+}
+
+.moblie-describtion{
+    margin-top: 50px;
+}
+
+.star-icon-moblie{
+    width: 20px;
+    height: 20px;
+}
+
+.timer-div{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    font-size: large;
+    font-weight: bold;
+   
+    padding-top: 6px;
+    padding-left: 10px;
+   
+    text-align: center;
+    border-radius: 30px ;
+    background-color: #f2f5f7;
+    margin-left: 20px;
+}
+.timer-divs-direction{
+    display: flex;
+}
+
+.range-mobile-sold{
+    width: 250px;
+    margin-top: 10px;
+}
+
+.loader {
+    border: 4px solid #f3f3f3; /* Light grey */
+    border-top: 4px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    animation: spin 2s linear infinite;
+    margin: 10px auto;
+  }
+
+  .btn-AddCart-moblie-large{
+    width: 250px;
+    margin-top: 20px;
+  }
+
+  .two-moblie-div{
+    display: flex;
+  }
+
+  .days-count{
+    font-size: 10px;
+    margin-top: 23px;
+    margin-left:-26px ;
+    font-weight: lighter;
+  }
+
+  .days-count-one{
+    font-size: 10px;
+    margin-top: 23px;
+    margin-left:-18px ;
+    font-weight: lighter;
+  }
+
+  .six-mobile-div{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.each-mobile-div{
+    width: 200px;
+    border: 1px solid rgb(197, 197, 197);
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    padding-top: 10px;
+    height: 470px;
+}
+
+.six-mobile-image{
+    width: 130px;
+    height: 150px;
+
+    
+}
+
+.decription-sixmobile-div{
+    padding: 10px 20px
+}
+
+.btm-six-mobiles{
+    margin-left: 20px;
+    width: 120px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.head-sixmobile{
+    height: 80px;
+}

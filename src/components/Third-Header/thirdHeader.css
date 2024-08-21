@@ -1,0 +1,104 @@
+.img-menu{
+    width: 30px;
+    height: 30px;
+    margin-left: 100px;
+}
+.btn-menu-div{
+    padding-left: 50px;
+    display: flex;
+    margin-top: 5px;
+    position: relative;
+   
+    
+}
+.btn-menu{
+    background-color: rgb(255, 115, 0);
+    padding: 10px 15px 5px 10px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    border: none;
+}
+
+.model-move{
+    
+    margin-top: 170px;
+    margin-left: -445px;
+}
+
+.modal-length{
+    width: 320px;
+}
+
+.madal-btn-style{
+    text-align: left;
+    border-bottom: 1px solid black;
+
+}
+.exact-madal{
+    text-align: left  ;
+}
+
+.less-then{
+    margin-left: 100px;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.model-move-one{
+    margin-top: 170px;
+    margin-left: -126px;
+}
+
+.anchor{
+    color: lightcyan;
+    text-decoration: none;
+}
+
+.active{
+    color:black;
+}
+
+.nav-items-anchor{
+    display: flex;
+    flex-direction: row;
+}
+
+.line-items{
+    margin-left: 30px;
+}
+
+.bell-icons{
+    width: 20px;
+    height: 20px;
+    
+}
+
+.bell-icons-div{
+    margin-left: 200px;
+    border-left: 1px solid black;
+    padding-left: 30px;
+    margin-top: 7px;
+}
+
+.span-bell-text{
+    color: white;
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+.dot-remove{
+    list-style: none;
+}
+
+.home-move-modal{
+    margin-top: 170px;
+    margin-left: -100px;
+}
+
+.content-length{
+    width: 200px;
+    margin-left: -10px;
+    background-color: white;
+}
+

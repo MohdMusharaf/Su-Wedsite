@@ -1,0 +1,293 @@
+.single-image{
+    width: 400px;
+    height: 400px;
+    
+}
+
+.image-small-div{
+    width: 80px;
+    height: 100px;
+}
+
+.column-small-div{
+    padding: 10px px;
+    border: 1px solid black;
+    width: 90px;
+    margin-bottom: 10px;
+}
+.star-icon-mobile{
+    width: 10px;
+    height: 10px;
+}
+
+.image-direction-row{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.display-findbyid{
+    display: flex;
+}
+
+.find-by-id{
+    margin-top: 30px;
+    margin-left: 100px;
+
+}
+
+.product-details-findid{
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.review{
+    font-size: 13px;
+    font-weight: lighter;
+}
+
+.amount-strik{
+    font-size: 24px;
+    margin-left: 15px;
+    margin-top: 10px;
+    text-decoration:line-through;
+}
+
+.amount-div-findid{
+    
+    margin-top: 20px;
+    border-top:1px solid lightblue ;
+}
+
+.amounttext{
+    display: flex;
+}
+
+.discount-display{
+    color: yellow;
+    font-weight: bold;
+}
+
+.eye-icons-findby{
+    width: 30px;
+    height: 30px;
+}
+
+.time-left-findid{
+    display: flex;
+    width: 320px;
+    background-color: #ff4500;
+    text-align: center;
+    padding: 10px 10px;
+    font-weight: 500;
+    margin-left: 50px;
+}
+
+.each-timer{
+ color: white;
+ margin-left: 20px;
+ 
+}
+
+.each-time-day{
+    font-size: 10px;
+    
+}
+
+.hurry-time{
+    color:#ff4500;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+
+    
+}
+
+.timer-div-left{
+    display: flex;
+    border: 1px solid pink;
+    border-radius: 10px;
+    padding: 20px 20px;
+    margin-top: 20px;
+    background-color: rgb(240, 205, 205);
+}
+
+.btn-product-increase{
+    border: 1px solid black;
+    width: 110px;
+    padding: 9px 15px 9px 15px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.btn-addcart-findid{
+    width: 450px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.btn-addcart-prodict-number{
+    display: flex;
+}
+.addcart-properties{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.container1 {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin: 20px;
+}
+
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    
+}
+
+.checkbox-container input {
+    margin-right: 8px;
+    
+}
+
+.shop-pay-button {
+    background-color: #5a31f4; /* Shop Pay's purple color */
+    width: 600px;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.shop-pay-button:hover {
+    background-color:orangered; /* Darker shade for hover */
+}
+
+.icons-findbyid-div{
+    display: flex;
+}
+
+.each-icon-innner{
+    margin-left: 30px;
+}
+.duration-div{
+    font-size: 16px;
+    margin-top: 30px;
+    line-height: 2.2;
+    margin-left: 50px;
+
+}
+
+.guarantee-pay{
+    text-align: center;
+    margin-top: 20px;
+    width: 600px;
+    margin-left: 20px;
+   background-color: white;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.one-product-details{
+    
+    margin-right: 20px;
+    
+}
+
+.pay-image-div{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pay-image{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+/* button */
+
+.tabbed-interface {
+    width: 100%;
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.tab-buttons {
+    display: flex;
+   justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.tab-buttons button {
+    padding: 10px 20px;
+    margin-left: 50px;
+    border: none;
+   background-color: white;
+    cursor: pointer;
+    font-size: 16px;
+    transition: border-bottom 0.5s;
+    color: black;
+}
+
+.tab-buttons button.active {
+    /* Active tab color */
+    color: rgb(0, 0, 0);
+    border-bottom: 3px solid orangered;
+   
+}
+
+.tab-buttons button:hover:not(.active) {
+    background-color: #ffffff;
+    border-bottom: 3px solid orangered ; /* Hover color for inactive tabs */
+}
+
+.tab-content {
+    padding: 20px;
+}
+
+.onclick-btn-render{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.deccription-image-render{
+    width: 100%;
+    height: 100%;
+}
+
+.in-findid-sixmobile{
+    margin-left: -100px;
+}
+
+.btn-addcart-product-number{
+    display: flex;
+}
+
+
+.rating {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .rating-score {
+    font-weight: bold;
+    color: #f39c12; /* Gold color for the rating score */
+  }
+  
+  .rating-reviews {
+    font-style: italic;
+    color: #555;
+  }
+  

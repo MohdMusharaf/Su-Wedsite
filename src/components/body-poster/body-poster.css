@@ -1,0 +1,177 @@
+.img-background-tv{
+    
+    background-image: url('https://demo-morata.myshopify.com/cdn/shop/files/banner_2_1.png?v=1700121262&width=2000');
+    background-size: cover;
+  background-position: center;
+  height:585px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+/* https://demo-morata.myshopify.com/cdn/shop/files/banner_2_3.png?v=1700121262&width=2000 */
+
+.img-background-washing{
+    
+ background-image: url('https://demo-morata.myshopify.com/cdn/shop/files/banner_2_2.png?v=1700121262&width=2000');
+background-size: cover;
+  background-position: center;
+  height:585px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.slide-background{
+    padding: 50px 50px 0px 0px;
+    background: linear-gradient(to top, #f7f1f0, #75d3d3);
+    width: 900px;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+
+.second-div{
+    margin-left: 50px;
+    margin-top: 10px;
+ 
+
+}
+
+/*  */
+
+
+.img-background-snacks{
+    
+    background-image: url('https://demo-morata.myshopify.com/cdn/shop/files/banner_2_3.png?v=1700121262&width=2000');
+    background-size: cover;
+  background-position: center;
+  height:585px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.para-slide{
+    font-size: 26px;
+    font-weight: 700;
+    color: black;
+}
+
+.para-div{
+    margin-left: -350px;
+}
+
+.para-slide-two{
+    color: rgb(107, 102, 102);
+}
+.image-items-wires{
+ background: url('https://demo-morata.myshopify.com/cdn/shop/files/2_1.png?v=1700109332&width=2000 ');
+ background-size: cover;
+ background-position: center;
+ margin-top: 20px;
+ height:200px;
+ width: 430px;
+ 
+ color: white;
+}
+
+.image-items-headphone{
+    background: url('https://demo-morata.myshopify.com/cdn/shop/files/2_2.png?v=1700109332&width=2000');
+    background-size: cover;
+    background-position: center;
+    height:200px;
+    width: 430px;
+   
+    color: white;
+   }
+
+   .image-items-watch{
+    background: url('https://demo-morata.myshopify.com/cdn/shop/files/2_3.png?v=1700109332&width=2000 ');
+    background-size: cover;
+    background-position: center;
+    margin-top: 20px;
+    height:200px;
+    width: 430px;
+    
+    color: white;
+   }
+
+.bodyPosterOne{
+    display: flex;
+    
+}
+
+.para-featured{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 50px;
+    padding-top: 20px;
+    
+}
+
+.para-big-sale{
+    color: white;
+    font-size: 22px;
+    font-weight: 600;
+    margin-left: 50px;
+}
+
+.para-items-type{
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 50px;
+    padding-top: 20px;
+
+}
+
+.rocket-image{
+    width: 70px;
+    height: 70px;
+}
+
+.refresh-image{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+}
+
+.thrid-div{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 70px;
+    border: 1px solid rgb(223, 220, 220);
+    margin-right: 100px;
+
+}
+
+.para-support{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.thrid-inside-div{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.para-details-type{
+    margin-left: 20px;
+    border-right: 1px solid rgb(205, 202, 202);
+    padding-right: 25px;
+}
+
+.para-small{
+    font-size: 14px;
+}

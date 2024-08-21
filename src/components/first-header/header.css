@@ -1,0 +1,57 @@
+.fistHeader-div{
+    border-bottom: 0.5px solid rgb(91, 88, 88);
+    
+}
+
+.nav-top{
+    padding-bottom: 5px;
+    margin-top: 1px;
+    background-color:#232f3f ;
+    
+}
+.nav-items-right{
+    margin-left: 300px;
+    text-align: right;
+    
+}
+.nav-top-signup{
+    color: rgb(210, 198, 198);
+}
+.nav-display-row{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5px;
+}
+.nav-move-top{
+    padding-top: 0px;
+}
+.nav-image-size{
+    width: 20px;
+    height: 20px;
+    padding-top: 5px;
+}
+
+.nav-items-right-side{
+    margin-left: 200px;
+    text-align: right;
+    padding-top: 5px;
+}
+.nav-select{
+    margin-left: 5px;
+    background-color: rgb(45, 45, 45);
+    color: rgb(138, 134, 134);
+    border-color: rgb(45, 45, 45);
+    
+}
+
+.nav-select-nationality{
+    margin-left: 20px;
+    background-color: #232f3f;
+    color: rgb(138, 134, 134);
+    border-color: rgb(45, 45, 45);
+    
+}
+
+.languages-div{
+    margin-top: -8px;
+}

@@ -1,0 +1,45 @@
+.footer-div{
+    background-color: #232f3f;
+    margin-top: 50px;
+    padding: 50px 50px;
+    display: flex;
+}
+
+.footer-div-one{
+   color: white;
+   
+}
+.logo-text-footer{
+    font-size: larger;
+    color: rgb(255, 157, 0);
+    font-weight: 600;
+}
+
+.second-div-footer{
+    color: white;
+    margin-left: 70px;
+    padding-top: 10px;
+}
+
+.second-head-footer{
+    font-size: 18px;
+    font-weight: 600;
+    
+}
+
+.footer-inner-two{
+    margin-top: 20px;
+}
+
+.anchor-footer{
+    font-size: 16px;
+    color: rgb(142, 137, 137);
+    font-weight: lighter;
+}
+.same-footer-one{
+    margin-top: 10px;
+}
+
+.same-from-footer{
+    color: white;
+}

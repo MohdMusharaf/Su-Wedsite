@@ -1,0 +1,219 @@
+.Your-cart-div{
+    text-align: center;
+    justify-content: center;
+   background-color: rgb(245, 245, 245);
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+
+.light-font{
+    font-weight: lighter;
+}
+
+.back-color-set{
+    background-color: rgb(216, 228, 232);
+    text-align: center;
+    padding-top: 20px;
+   padding-bottom: 10px;
+   margin: 30px 50px 50px 50px;
+
+}
+
+/* .row-body-view{
+    height: 200px;
+    justify-content: center;
+} */
+
+.image-table-view{
+    width: 100px;
+    height: 100px;
+}
+
+.display-column-one{
+    display: flex;
+}
+
+.div-head-table{
+    width: 200px;
+}
+
+.btn-change-count{
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.amount-chanege{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.delete-shopping{
+    border-radius: 0;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+}
+
+.delete-shopping-de{
+    border-radius: 0;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+    
+}
+
+.table-container{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 1000px;
+}
+
+.view-cart-table{
+    display: flex;
+}
+
+.range-value{
+    width: 250px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.input-range-div{
+    color: red;
+    font-weight: 600;
+    text-align: center;
+    justify-content: center;
+}
+
+.side-view-table{
+    width: 400px;
+    border: 1px solid red;
+}
+
+.amount-side-view{
+    margin-left: 200px;
+}
+
+.subtotal-view-side{
+    border-top: 1px solid lightblue;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 10px;
+    font-weight: larger;
+    font-weight: 700;
+}
+
+.select-countrt{
+    padding: 10px 10px;
+    width: 250px;
+    margin-left: 30px;
+
+}
+
+.input-form-view{
+    margin-left: 20px;
+    margin-top: 20px ;
+    margin-right: 20px;
+    padding-top: 30px;
+    padding-left: 20px;
+    border: 1px solid lightblue;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.country-div{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.crat-toatals{
+    font-size: large;
+    font-weight: 700;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.calculate-shipping{
+    border-radius: 0;
+    margin-top: 30px;
+    margin-left: 50px;
+    padding: 10px 10px;
+}
+
+.margin-span-save{
+    margin-right: 180px;
+    font-weight:700;
+    
+    
+}
+
+.div-save{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px 10px;
+    border-top: 1px solid lightblue;
+    border-bottom: 1px solid lightblue;
+    margin-bottom: 20px;
+    text-align: end;
+}
+
+.amount-saved{
+    text-align: end ;
+}
+
+.last-div-view{
+    padding-left: 20px;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.btn-last-view{
+
+    border-radius:0;
+    width: 300px;
+    margin-top: 10px;
+}
+
+.middle-view-details{
+    width: 200px;
+    margin-left: 50px;
+    
+}
+
+.last-view-details{
+    width: 50px;
+    height: 50px;
+    margin-left: 30px;
+   
+}
+
+.last-image-view{
+    width: 15px;
+    height: 15px;
+    
+}
+
+.grid-add-card{
+    width: 90%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+  border: red solid 3px ;
+  padding: 20px 20px;
+  display: flex;
+    margin-top: 20px;
+}
+
+.mobile-add-card-image{
+    width: 100px;
+    height: 100px;
+}
+.text-count{
+    width: 30px;
+    padding: 0px 10px 0px 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 0;
+}
+
